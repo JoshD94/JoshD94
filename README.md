@@ -16,4 +16,4 @@
 - 📧 Email: jd2262@cornell.edu / joshdirga@gmail.com
 - 💼 LinkedIn: [joshua-dirga](https://linkedin.com/in/joshua-dirga)
 - 📄 Resume: [View PDF](https://drive.google.com/file/d/1HdQ6gA6UQC7Ps7XV2BZufUHz5ngNPTeI/view)
-- 🌐 Portfolio: [View Portfolio](joshua-dirga-website.vercel.app)
+- 🌐 Portfolio: [View Portfolio](https://joshua-dirga-website.vercel.app)
